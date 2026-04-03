@@ -1,8 +1,3 @@
-Here is a polished, professional, and humanized version of your `README.md`. It includes a welcoming introduction, clear setup instructions, and all the essential API details!
-
-You can just click the copy button on the top right of this block and paste it directly into your `README.md` file:
-
-```markdown
 # 💸 FinTrack API – Python Powered Finance System
 
 > A smart, high-performance financial tracking backend. Built with Python and FastAPI, this API does the heavy lifting of managing user roles, securely storing transactions, and automatically crunching the numbers for real-time financial summaries.
